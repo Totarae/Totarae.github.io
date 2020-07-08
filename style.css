@@ -75,6 +75,14 @@ a, a:hover, a:focus {
     display: block;
 }
 
+ul #skillsSubmenu{
+    text-align: center;
+}
+
+ ul #skillsSubmenu li {
+    margin: 10px 0;
+}
+
 #sidebar ul li a {
     text-align: left;
 }
